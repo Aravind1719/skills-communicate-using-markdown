@@ -18,4 +18,4 @@ var myVar = "Hello, world!";
 
 - [x] learnt basics of markdown
 - [x] learnt basics of github pages
-- [] Introduce myself to the world
+- [ ] Introduce myself to the world
